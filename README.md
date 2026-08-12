@@ -1,6 +1,6 @@
 # Awesome-Headless-Search
 
-## Top Headless Search Platforms
+### Top Headless Search Platforms
 
 A curated list of leading headless / API-first search platforms for site search, e-commerce product discovery, autocomplete, faceting, recommendations, and semantic/hybrid search.  
 **Primary focus: open-source software.**
