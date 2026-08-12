@@ -40,7 +40,7 @@ Whether you are building instant search-as-you-type, multi-tenant e-commerce pro
 
 Headless search features an exceptionally vibrant open-source ecosystem. The table below lists the top open-source search engines, vector databases, and UI toolkits, **sorted in descending order by GitHub Star count**.
 
-| Project | Stars | Description | License | Key Focus |
+| Project | Github_Repo_Stars | Description | License | Key Focus |
 |:--------|:-----:|:------------|:--------|:----------|
 | **[Elasticsearch](https://github.com/elastic/elasticsearch)** | [<img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white" alt="Elasticsearch Stars" />](https://github.com/elastic/elasticsearch/stargazers) | Powerful distributed search and analytics engine built on Apache Lucene. Powers global application search workloads. | Multi-license (AGPL / Elastic License) | Distributed full-text & analytics engine |
 | **[Meilisearch](https://github.com/meilisearch/meilisearch)** | [<img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white" alt="Meilisearch Stars" />](https://github.com/meilisearch/meilisearch/stargazers) | Lightning-fast, open-source search engine written in Rust. Excellent relevance out of the box with hybrid keyword + semantic search. | MIT (Community Edition) | Ultra-fast DX & instant search |
